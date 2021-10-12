@@ -16,7 +16,7 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/Devil-jessie/Telegram-update`
 
 `$ cd TeleGram-update`
 
@@ -32,7 +32,7 @@
 
 `$ python3 smsbot.py members.csv`
 
-`$ python3 
+`$ python3 add2group.py
 
 * add users to your group
 
